@@ -7,7 +7,7 @@ import os
 
 print("\n")
 print ("              ============================")
-print ("              WELCOME TO RUUSH SMS BOMMER ")
+print ("              WELCOME TO rsh SMS BOMMER ")
 
 print ("                    CODED BY rsh#1337     ")
 print("               ============================")
@@ -140,10 +140,10 @@ try:
 		#print("JSON Response ", response.json())
 		
 except KeyboardInterrupt:
-    print ("Program Kapatılıyor... ")
+    print ("Program Kapatılıyor...")
     print("")
     print("Siktir git la orospu evladı ♥")
     time.sleep(2)
-    os.system("start https://instagram.com/rssh.1337")
-    os.system("start https://t.me/rssh_1337         ")
+    os.system("start https://instagram.com/rshcxn")
+    os.system("start https://t.me/rshcxn")
     exit(0)
